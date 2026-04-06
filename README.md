@@ -11,7 +11,7 @@ This project simulates a cloud-based failure detection and recovery system using
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js / Java (mention yours)
+- Backend: Node.js / pyhton
 - Concepts: Cloud Computing, Distributed Systems, System Monitoring
 
 ## ⚙️ How It Works
